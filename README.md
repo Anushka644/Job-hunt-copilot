@@ -24,7 +24,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173 and enter your Groq API key when prompted.
+Open https://anushka644.github.io/Job-hunt-copilot/ and enter your Groq API key when prompted.
 
 ### Build for production
 
